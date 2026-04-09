@@ -1,4 +1,4 @@
-# Custom In-Memory DBMS (C++17, Single File)
+# Custom In-Memory DBMS 
 
 A systems-style, CLI-driven **in-memory database engine** implemented in **one C++ file** (`main.cpp`).
 
